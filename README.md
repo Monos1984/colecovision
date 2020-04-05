@@ -1,13 +1,13 @@
 # colecovision
-des fichier d'aide pour la pvcollib d'alek maul
+Des fichier d'aide pour la pvcollib d'alek maul
 
-Voici un petit gitub four tout sur la programmation de la colecovision avec la librairie d'alek maul. PVcollib.
+Voici un petit github four tout sur la programmation de la colecovision avec la librairie d'alek maul. PVcollib.
 https://github.com/alekmaul/pvcollib
 
 -Le fichier Compilation.bat
 permet de compiler la librairie d'alek maul en cas ou si elle ne fonctionne pas sur windows. 
-Des fois si faut recompiler une librairie pour windows. Le fichier se place à coté  du dossier "source" de sa lib et roule ma poule.
-Le fichier type CRT0.rel et son fichier .lib se crée et à vous de les placer au bonne endroit.
+Il est fréquent de recompiler la lib. Le fichier se place à coté  du dossier "source" de sa lib et roule ma poule.
+Le fichier type CRT0.rel et son fichier .lib se crée et à vous de les placer au bonne endroit. (ou de suivre mon organisation)
 
 -Le fichier compilation_projet.bat 
 permet de générer son projet c en .rom. C'est le .bat de compilation de projet.
