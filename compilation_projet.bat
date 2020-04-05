@@ -81,7 +81,7 @@ SET standard_c = --std-c99
 rem ===============================================================
 rem ** Test si le repertoir de sortie existe sinon il est genere **
 rem ===============================================================
-:suite
+
 if not exist %sortie% mkdir %sortie%
 
 echo ----------------------------------------------
